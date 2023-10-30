@@ -31,7 +31,8 @@
   - [WorldGuard](https://github.com/EngineHub/WorldGuard)
   - [WorldGuardExtraFlags](https://github.com/aromaa/WorldGuardExtraFlags)
 
-#### Serwer:proxy (a-z):
+
+### Serwer:proxy (a-z):
 - #### Silnik:
   - [Velocity](https://papermc.io/software/velocity)
 
