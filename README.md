@@ -41,3 +41,12 @@
   - [Velocity](https://papermc.io/software/velocity)
 
 - #### Pluginy  (a-z):
+  - [EpicGuard](https://github.com/awumii/EpicGuard)
+  - [LimboAPI](https://github.com/Elytrium/LimboAPI)
+  - [LimboAuth](https://github.com/Elytrium/LimboAuth)
+  - [LimboFilter](https://github.com/Elytrium/LimboFilter)
+  - [LimboQueue](https://github.com/Elytrium/LimboQueue)
+  - [LimboReconnect](https://github.com/Elytrium/LimboReconnect)
+  - [SkinRestorer](https://github.com/SkinsRestorer/SkinsRestorerX/)
+  - [TCPShield](https://github.com/TCPShield/RealIP)
+  - [VelocityTools](https://github.com/Elytrium/VelocityTools)
