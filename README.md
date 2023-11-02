@@ -6,6 +6,9 @@
   3. Dołączyć do serwera i zalogować/zarejestrować się.
 
 ### Jak grać:
+  Nasz serwer lekko różni się od mechanik "czystej" wersji minecrafta, tutaj znajdziesz przykłady różnic:
+  - Światy nie są nieograniczone, mają ustawione bordery dla end i overworld około 24000 kratek, nether jest 8 razy mniejeszy (wynika to z mechaniki minecrafta która określa, że 8 kratek na zwykłym świecie to 1 w netherze)
+  - 
 
 ### Survival:
 - #### Silnik:
