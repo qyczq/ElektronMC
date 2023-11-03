@@ -16,12 +16,12 @@
 
 - #### Pluginy  (a-z):
   - [ajLeaderboards](https://github.com/ajgeiss0702/ajLeaderboards)
+  - Anticheat
   - [Chunky](https://github.com/pop4959/Chunky)
   - [CommandWhitelist](https://github.com/YouHaveTrouble/CommandWhitelist)
   - [CoreProtect](https://github.com/PlayPro/CoreProtect)
   - [DecentHolograms](https://github.com/DecentSoftware-eu/DecentHolograms)
   - [EssentialsX](https://github.com/EssentialsX/Essentials/)
-  - [GrimAC](https://github.com/GrimAnticheat/Grim)
   - [LuckPerms](https://github.com/LuckPerms/LuckPerms)
   - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI)
   - [PvPManager](https://github.com/ChanceSD/PvPManager)
